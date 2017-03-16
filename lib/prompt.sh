@@ -25,7 +25,7 @@ function parse_git_dirty {
 		bits=">${bits}"
 	fi
 	if [ "${ahead}" == "0" ]; then
-		bits="*${bits}"
+		bits="${LGREEN}${bits}"
 	fi
 	if [ "${newfile}" == "0" ]; then
 		bits="${YELLOW}${bits}"

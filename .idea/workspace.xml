@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07ce563-95a6-4fb5-9ccc-af676de60915" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/bash.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/alias.sh" afterPath="$PROJECT_DIR$/lib/alias.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/colors.sh" afterPath="$PROJECT_DIR$/lib/colors.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/prompt.sh" afterPath="$PROJECT_DIR$/lib/prompt.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zen.sh" afterPath="$PROJECT_DIR$/zen.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +30,8 @@
       <file leaf-file-name="prompt.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+            <state relative-caret-position="249">
+              <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -292,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        <state relative-caret-position="249">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding />
         </state>
       </provider>
