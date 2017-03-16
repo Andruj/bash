@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07ce563-95a6-4fb5-9ccc-af676de60915" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/alias.sh" afterPath="$PROJECT_DIR$/lib/alias.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/colors.sh" afterPath="$PROJECT_DIR$/lib/colors.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/prompt.sh" afterPath="$PROJECT_DIR$/lib/prompt.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +32,8 @@
       <file leaf-file-name="prompt.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="735">
+              <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -41,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/lib/alias.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -50,8 +52,8 @@
       <file leaf-file-name="colors.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/colors.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -71,9 +73,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/zen.sh" />
-        <option value="$PROJECT_DIR$/lib/colors.sh" />
-        <option value="$PROJECT_DIR$/lib/prompt.sh" />
         <option value="$PROJECT_DIR$/lib/alias.sh" />
+        <option value="$PROJECT_DIR$/lib/prompt.sh" />
+        <option value="$PROJECT_DIR$/lib/colors.sh" />
       </list>
     </option>
   </component>
@@ -105,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="FullScreen" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="p&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/prompt.sh&#10;alias&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/alias.sh&#10;colors&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/colors.sh&#10;prompt&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/prompt.sh&#10;zen&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/zen.sh" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/alias.sh&#10;p&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/prompt.sh&#10;alias&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/alias.sh&#10;colors&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/colors.sh&#10;prompt&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/lib/prompt.sh&#10;zen&#9;FILE&#9;file:///Users/andrewpeterson/code/github/andruj/bash/zen.sh" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -266,26 +268,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
+    <entry file="file://$PROJECT_DIR$/lib/alias.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="42">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/alias.sh">
+    <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="735">
+          <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/colors.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding />
         </state>
       </provider>

@@ -25,25 +25,25 @@ function parse_git_dirty {
 		bits=">${bits}"
 	fi
 	if [ "${ahead}" == "0" ]; then
-		bits="${CYAN}${bits}"
+		bits="${ICYAN}${bits}"
 	fi
 	if [ "${newfile}" == "0" ]; then
-		bits="${YELLOW}${bits}"
+		bits="${IYELLOW}${bits}"
 	fi
 	if [ "${untracked}" == "0" ]; then
-		bits="${LRED}${bits}"
+		bits="${IRED}${bits}"
 	fi
 	if [ "${deleted}" == "0" ]; then
-		bits="${YELLOW}${bits}"
+		bits="${IYELLOW}${bits}"
 	fi
 	if [ "${dirty}" == "0" ]; then
-		bits="${RED}${bits}"
+		bits="${IRED}${bits}"
 	fi
 	if [ ! "${bits}" == "" ]; then
-		echo "${CYANS}${bits}"
+		echo "${ICYANS}${bits}"
 	else
-		echo "${GREEN}"
+		echo "${IGREEN}"
 	fi
 }
 
-export PS1="$BLUE\w \`parse_git_branch\` $RESTORE: "
+export PS1="$BLUE\w\`parse_git_branch\` $RESTORE"
