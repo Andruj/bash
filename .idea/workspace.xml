@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07ce563-95a6-4fb5-9ccc-af676de60915" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/prompt.sh" afterPath="$PROJECT_DIR$/lib/prompt.sh" />
-    </list>
+    <list default="true" id="e07ce563-95a6-4fb5-9ccc-af676de60915" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="prompt.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="291">
+              <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -284,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/prompt.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="291">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
       </provider>
