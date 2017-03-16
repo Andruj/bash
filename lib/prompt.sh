@@ -25,7 +25,7 @@ function parse_git_dirty {
 		bits=">${bits}"
 	fi
 	if [ "${ahead}" == "0" ]; then
-		bits="${LGREEN}${bits}"
+		bits="${CYAN}${bits}"
 	fi
 	if [ "${newfile}" == "0" ]; then
 		bits="${YELLOW}${bits}"
@@ -40,9 +40,9 @@ function parse_git_dirty {
 		bits="${RED}${bits}"
 	fi
 	if [ ! "${bits}" == "" ]; then
-		echo "${GREEN}${bits}"
+		echo "${CYANS}${bits}"
 	else
-		echo ""
+		echo "${GREEN}"
 	fi
 }
 
