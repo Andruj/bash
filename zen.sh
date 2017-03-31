@@ -1,5 +1,5 @@
 
-for f in $ZEN/lib/*; 
-	do source $f; 
+for f in $ZEN/lib/*.sh; 
+	do source $f
 done
 

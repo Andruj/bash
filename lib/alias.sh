@@ -6,3 +6,6 @@ alias ls="ls -G"
 alias ll="ls -al"
 alias uu="universal"
 alias cm="commit"
+alias cl="clear"
+alias day='osascript $ZEN/lib/theme_config.scpt Frostrise'
+alias night='osascript $ZEN/lib/theme_config.scpt Frostfall'
